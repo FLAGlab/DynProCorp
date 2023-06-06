@@ -1,2 +1,1 @@
-class Information {
-}
+data class Information(val destination: Int, val data: String)
