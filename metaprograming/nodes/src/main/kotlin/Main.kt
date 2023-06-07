@@ -15,4 +15,10 @@ fun main(args: Array<String>) {
     val info2 = Information(6, "Text for the printer")
     nodes.last().handle(info)
     nodes.last().handle(info2)
+
+    for(node in nodes) {
+        val c = node::class
+        println(c.qualifiedName)
+        println(c.supertypes)
+    }
 }
