@@ -2,3 +2,4 @@
 *.image
 .DS_Store
 *.changes
+/metaprograming/smalltalk/pharo-local
