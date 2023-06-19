@@ -3,3 +3,6 @@
 .DS_Store
 *.changes
 /metaprograming/smalltalk/pharo-local
+/metaprograming/nodes/gradle
+/metaprograming/nodes/.idea
+/metaprograming/nodes/.gradle
