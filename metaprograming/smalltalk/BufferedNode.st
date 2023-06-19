@@ -1,0 +1,1 @@
+'From Pharo11.0.0 of 29 May 2023 [Build information: Pharo-11.0.0+build.692.sha.0c234f2f5a92b237dd22ef9429506e92e586c494 (64 Bit)] on 19 June 2023 at 11:56:10.286242 am'!Node subclass: #BufferedNode	instanceVariableNames: ''	classVariableNames: 'buffer'	package: 'Networks'!!BufferedNode methodsFor: 'messages'!print	^ 'Buffered node'! !

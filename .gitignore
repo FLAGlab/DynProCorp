@@ -1,1 +1,4 @@
 /metaprograming/nodes/build
+*.image
+.DS_Store
+*.changes
