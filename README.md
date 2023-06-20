@@ -2,7 +2,7 @@
 
 This repository contains a corpus of example programs of adaptation types using different programming language mechanisms.
 The implementations are all based on the following exemplars:
-1. Room advertising behavior
+1. Smart home advertising
 2. Network forwarding
 
 ## Metaprogramming
