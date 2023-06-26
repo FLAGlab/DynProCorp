@@ -1,0 +1,27 @@
+5, 4
+Kitchen
+free
+Bedroom
+occupiend
+tv
+Livingroom
+free
+tv, soundbar, radio
+Bathroom
+free
+radio
+Hall
+free
+chime
+Chime
+on
+100
+Tv
+off
+0 
+Soundbar
+off
+20 
+Radio
+off
+43
