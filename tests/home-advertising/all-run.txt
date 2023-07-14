@@ -1,0 +1,21 @@
+ring 
+occupy bedroom
+ring
+occupy livingroom
+ring
+remove bedroom
+move livingroom bathroom
+ring
+move bathroom bedroom
+turnon tv bedroom
+ring
+add lights bedroom
+ring
+turnoff tv bedroom
+occupy baby bedroom
+ring 
+remove baby bedroom
+move bedroom hall
+ring
+remove hall
+ring
