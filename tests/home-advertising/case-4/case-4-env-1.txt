@@ -1,0 +1,7 @@
+ring 
+occupy bedroom
+ring
+move bedthroom bathroom
+ring
+move bathroom bedroom
+ring

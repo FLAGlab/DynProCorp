@@ -1,0 +1,7 @@
+ring 
+occupy livingroom
+occupy bathroom
+ring
+remove bathroom
+remove livingroom
+ring
