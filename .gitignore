@@ -6,3 +6,4 @@
 /metaprograming/nodes/gradle
 /metaprograming/nodes/.idea
 /metaprograming/nodes/.gradle
+*.class
