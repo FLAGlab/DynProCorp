@@ -1,0 +1,11 @@
+Kitchen 2
+TV Radio
+Bedroom 1
+TV
+Livingroom 1
+Sound-Bar
+Bathroom 1
+Radio
+Hall 1
+Chime
+
