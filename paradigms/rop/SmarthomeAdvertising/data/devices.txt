@@ -1,0 +1,6 @@
+Chime Hall 100
+TV Bedroom 0
+Sound-Bar Livingroom 0
+Radio Kitchen 0
+TV Kitchen 0
+Radio Bathroom 0
